@@ -1,0 +1,5 @@
+https://github.com/mmEissen/importgraph
+https://chadaustin.me/2009/05/visualizing-python-import-dependencies/
+https://github.com/thebjorn/pydeps
+https://bitbucket.org/ronaldoussoren/modulegraph/
+http://blog.poormansmath.net/pydepgraph-a-dependencies-analyzer-for-python/
